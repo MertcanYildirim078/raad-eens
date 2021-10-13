@@ -1,4 +1,4 @@
-import random
+import random #Mertcan Yildirim 99068314
 print('Je gaat een spel spelen waar je moet gokken') #Hoe maak je rondes en dat je 10 keer per ronde kan gokken en dat je elke ronde kan aangeven dat wilt gaan stoppen
 teradengetal = random.randint(1,1000)
 score = 0
